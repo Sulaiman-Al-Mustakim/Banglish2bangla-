@@ -1,0 +1,2 @@
+# Your words. Format:  banglish = বাংলা   (one per line). Edit any time, no restart needed.
+# Your lines beat the built-in rules and the built-in starter dictionary.
