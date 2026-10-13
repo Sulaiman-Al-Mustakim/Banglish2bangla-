@@ -31,7 +31,7 @@ Phonetic keyboards sit on top of your screen, switch your whole system into "Ban
 Requires Python 3.9+.
 
 ```bash
-git clone https://github.com/Sulaiman-Al-Mustakim/Banglish2bangla-l
+git clone https://github.com/Sulaiman-Al-Mustakim/Banglish2bangla-
 cd banglish-hotkey
 pip install -r requirements.txt
 python banglish_hotkey.py
